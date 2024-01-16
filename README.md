@@ -4,4 +4,4 @@ These data and the accompanying R Markdown file allow for the replication of the
 
 The full running of this code will generate two .csv files which are necessary for the full replication of the analysis. All required packages are listed in the setup tab. You can use your RStudio’s “Outline” pane to explore the sections and subsections of the annotated code for ease of use.
 
-Please direct any questions about the generation of the data frame, analyses, etc. to chainey.boroski@duke.edu
+Please direct any questions about the generation of the data frame, analyses, etc. to chainey.boroski@duke.edu.
